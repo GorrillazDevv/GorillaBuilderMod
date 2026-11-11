@@ -1,4 +1,4 @@
-#Gorilla Builder Playground
+# Gorilla Builder Playground
 A builder playground inside your own copy of Gorilla Tag. Everything you make stays on your PC and is never sent to other players.
 Hold Y on your left controller to open the hand menu. Aim with your right hand and pull its trigger to pick something.
 Five size mushrooms: Purple 0.2x, Blue 0.45x, Green normal, Red 2x and Gold 3x. Each has its own mushroom model and musical size-change sound.
